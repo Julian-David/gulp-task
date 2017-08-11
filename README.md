@@ -14,4 +14,4 @@ Using gulp to minify small project files.
  $ gulp
 ```
 
-# MIT License
+## MIT License
