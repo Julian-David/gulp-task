@@ -14,4 +14,6 @@ Using gulp to minify small project files.
  $ gulp
 ```
 
+The minified files will appear in the 'src' folder.
+
 ## MIT License
